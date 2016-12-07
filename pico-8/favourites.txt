@@ -1,0 +1,12 @@
+|15314  |15316  |1794   |parlor           |                     |the stroll 1.0
+|32703  |32704  |1794   |jclermont        |                     |graphical artifact (gart) function
+|32612  |32613  |1794   |blerkotron       |                     |8-invaders 1.00
+|15133  |15134  |1796   |krickit          |                     |celeste 1.0 (fixed for p8 v0.1.2)
+|19863  |19860  |1794   |benjamin_soul_   |                     |totem 1.0
+|10838  |10832  |1794   |benjamin_soul_ea |                     |across the river 1.02
+|10022  |9983   |1794   |benjamin_soul_ea |                     |hug arena
+|10058  |10059  |1794   |oinariman        |                     |cave berries
+|17208  |16920  |1794   |benjamin_soul_ea |                     |rainmaker 1.0
+|19639  |16826  |1794   |jte              |                     |frog home
+|17003  |15939  |1794   |j_fry            |                     |hyperspace 1.1.1
+|20262  |20267  |1794   |trasevol_dog     |                     |crash!!, the sequel to crash!
